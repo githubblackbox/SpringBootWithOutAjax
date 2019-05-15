@@ -1,0 +1,16 @@
+GET ALL DATA
+
+http://localhost:8080/getallItems
+
+GET SELECTED DATA
+
+http://localhost:8080/getItem?itemId=1
+
+DELETE SINGLE DATA
+
+http://localhost:8080/deleteItem?itemId=1
+
+UPDATE DATA
+
+http://localhost:8080/updateItem?itemId=2&bname=cLanguage&author=ranjini&price=370
+
